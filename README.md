@@ -17,20 +17,20 @@ Welcome to the Solar System Exploration Unity project! This interactive simulati
 - **AR Zone:** Explore planets in AR mode with 3D models hosted on the internet.
 
 - **Interactive Activities:**
-  - The first four planets have activities on their surface, including MCQ quizzes and audio files explaining the features. Control audio with dedicated buttons.
+  - The first four planets have activities on their surface, including MCQ quizzes and audio files explaining the features. 
 
 - **Ebook Menu:** Access Tamil and English ebooks related to the solar system.
 
 ## Instructions to Run the Simulation
 
 1. **Download the Game:**
-   - [Download Solar System Explorer](https://drive.google.com/your_gdrive_link)
+   - [Download Solar System Explorer](https://drive.google.com/drive/folders/1usW5owOOYV_9JbeOga6IL7zTXx09RmcD?usp=sharing)
 
 2. **Extract Files:**
    - Extract the downloaded ZIP file to your preferred location.
 
 3. **Run the Simulation:**
-   - Open the extracted folder and run the executable file (e.g., `SolarSystemExplorer.exe`).
+   - Open the extracted folder and run the executable file (e.g., `Solar System Simulation.exe`).
 
 4. **Explore the Solar System:**
    - Use arrow keys or WASD to control the spaceship.
